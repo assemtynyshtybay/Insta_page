@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Insta_kz</string>
+    <string name="add_flower">Add Flower</string>
+
+    <string name="post1_name">Rose</string>
+    <string name="post2_name">Freesia</string>
+    <string name="post3_name">Lily</string>
+    <string name="post4_name">Sunflower</string>
+    <string name="post5_name">Peony</string>
+    <string name="post6_name">Daisy</string>
+    <string name="post7_name">Lilac</string>
+
+    <string name="post1_description">Rose comes from the Latin word Rosa. There are over 100
+        species of the rose. </string>
+    <string name="post2_description">Freesias bloom during spring and are native to
+        Africa.</string>
+    <string name="post3_description">Lilies have the longest in vase lifespan of any cut
+        bloom.</string>
+    <string name="post4_description">Mature Sunflowers face east and are native too the United
+        States.</string>
+    <string name="post5_description">Peony plants can live to be 100 years old.</string>
+    <string name="post6_description">Daisies are cousins with Sunflowers.</string>
+    <string name="post7_description">Lilacs belong to the olive family.</string>
+</resources>
